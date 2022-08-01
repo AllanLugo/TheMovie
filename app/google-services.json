@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308215694541",
+    "project_id": "examen-android-upax",
+    "storage_bucket": "examen-android-upax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308215694541:android:2f791208a31284538a5584",
+        "android_client_info": {
+          "package_name": "com.example.themovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308215694541-teer2ugd2rjhdbjmtr42ppq2ei1ssvu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLxSkw-8tE5_ov662161wL5ZKOg-KwZKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308215694541-teer2ugd2rjhdbjmtr42ppq2ei1ssvu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
